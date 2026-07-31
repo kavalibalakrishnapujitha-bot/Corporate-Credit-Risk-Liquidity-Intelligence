@@ -1,0 +1,39 @@
+============================================================
+DATA PROFILING REPORT
+============================================================
+
+1. DATA TYPE ISSUES
+----------------------------------------
+
+Column: Monthly_Income
+No data-type issues found.
+
+Column: Monthly_Expenses
+No data-type issues found.
+
+
+2. INVALID / OUT-OF-RANGE VALUES
+----------------------------------------
+
+Invalid Age Records: 0
+Negative Account Balance Records: 0
+Invalid Credit Score Records: 0
+
+3. INCONSISTENT CATEGORIES
+----------------------------------------
+
+Column: Gender
+No inconsistent categories found.
+
+Column: Marital_Status
+No inconsistent categories found.
+
+Column: Employment_Status
+No inconsistent categories found.
+
+
+4. DATASET SUMMARY
+----------------------------------------
+Total Rows    : 5000
+Total Columns : 37
+Missing Values: 0
